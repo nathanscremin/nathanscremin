@@ -1,6 +1,6 @@
 <h2> Sobre Mim </h2>
 🎮 Desenvolvedor de Jogos Digitais apaixonado por criar experiências interativas e imersivas. <br>
-💻 Programando há 4 anos, explorando linguagens como C#, Python, C e C++. <br>
+💻 Programando há 4 anos, explorando linguagens como Pascal, Python, Lua e C++. <br>
 🎓 Estudante da Fatec Rio Claro, aplicando conhecimentos acadêmicos em projetos práticos. <br>
 🌍 Localizado em Rio Claro, São Paulo, Brasil.
 
