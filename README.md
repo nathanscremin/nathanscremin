@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/nathanscremin/nathanscremin/refs/heads/main/arthur-nnt.png" alt="Banner" style="max-width:100%; height:auto;">
 </p>
 
----
-
 <h1 align="center">Nathan Scremin 👾</h1>
 <p align="center">
   🎮 Desenvolvedor de Jogos Digitais | 💻 Estudante de IA | 🚀 Explorando o mundo da programação
