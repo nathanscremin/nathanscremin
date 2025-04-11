@@ -10,7 +10,8 @@
 - 🎮 **Desenvolvedor de Jogos Digitais** apaixonado por criar experiências interativas e imersivas.  
 - 💻 **Programando há 4 anos**, explorando linguagens como **Pascal, Python, Lua e C++**.  
 - 🎓 Formado em **Desenvolvimento de Sistemas pela ETEC Profº Armando Bayeux da Silva**.  
-- 🤖 Atualmente cursando **Inteligência Artificial na Fatec Rio Claro**, com foco em aprendizado de máquina e desenvolvimento avançado.  
+- 🤖 Atualmente cursando **Inteligência Artificial na Fatec Rio Claro**, com foco em aprendizado de máquina e desenvolvimento avançado.
+- 🍤 Apelidado carinhosamente de **Flambe**.
 - 🌎 Localizado em **Rio Claro, São Paulo, Brasil**.
 
 ---
