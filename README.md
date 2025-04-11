@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[arthur-nnt.png](https://raw.githubusercontent.com/nathanscremin/nathanscremin/refs/heads/main/arthur-nnt.png)" alt="Banner" style="max-width:100%; height:auto;">
+  <img src="https://raw.githubusercontent.com/nathanscremin/nathanscremin/refs/heads/main/arthur-nnt.png" alt="Banner" style="max-width:100%; height:auto;">
 </p>
 
 <h1 align="center">Nathan Scremin 👾</h1>
