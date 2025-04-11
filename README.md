@@ -19,10 +19,10 @@
 ### 🛠️ Habilidades
 
 #### 💬 Linguagens de Programação:
-`Python` `C++` `Java` `Lua` `Pascal` `CSS` `JavaScript` `PHP`
+`Python` `C++` `GML` `Java` `Lua` `Pascal` `CSS` `JavaScript` `PHP`
 
 #### 🎮 Desenvolvimento de Jogos:
-`GML` `Unity` `Roblox Studio`
+`GameMaker Studio 2` `Unity` `Roblox Studio`
 
 #### 🧰 Ferramentas:
 `Git` `GitHub` `Visual Studio Code`
