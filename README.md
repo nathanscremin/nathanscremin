@@ -33,9 +33,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<center>
   <img src="https://github-readme-stats.vercel.app/api?username=nathanscremin&show_icons=true&theme=tokyonight" alt="Nathan's GitHub stats"/>
-</p>
+</center>
 
 ---
 
