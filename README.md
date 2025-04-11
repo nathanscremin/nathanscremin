@@ -43,9 +43,3 @@
 > Sempre buscando desafios e novas tecnologias para expandir meus horizontes como dev e criador.
 
 ---
-
-### 📫 Onde Me Encontrar
-
-- GitHub: [@nathanscremin](https://github.com/nathanscremin)
-- *(Adicione outras redes se quiser: LinkedIn, Portfólio, etc)*
-
