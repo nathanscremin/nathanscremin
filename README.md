@@ -1,11 +1,51 @@
-<h2>• Sobre Mim </h2>
-🎮 <b>Desenvolvedor de Jogos Digitais</b> apaixonado por criar experiências interativas e imersivas. <br>
-💻 <b>Programando há 4 anos</b>, explorando linguagens como Pascal, Python, Lua e C++. <br>
-🎓 Estudante da Fatec Rio Claro, aplicando conhecimentos acadêmicos em projetos práticos. <br>
-🌍 Localizado em <b>Rio Claro, São Paulo, Brasil</b>.
+<h1 align="center">Nathan Scremin 👾</h1>
+<p align="center">
+  🎮 Desenvolvedor de Jogos Digitais | 💻 Estudante de Tecnologia | 🚀 Explorando o mundo da programação
+</p>
 
-<h2>• Habilidades </h2>
-🤖 <b>Linguagens de Programação:</b> Python, C++, Java, Lua, Pascal, CSS, Javascript, PHP <br>
-🎲 <b>Desenvolvimento de Jogos:</b> GML, Unity, Roblox Studio <br>
-🛠️ <b>Ferramentas:</b> Git, GitHub, Visual Studio Code <br>
-🌲 <b>Em desenvolvimento:</b> C, C#
+---
+
+### 🧠 Sobre Mim
+
+- 🎮 **Desenvolvedor de Jogos Digitais** apaixonado por criar experiências interativas e imersivas.  
+- 💻 **Programando há 4 anos**, explorando linguagens como **Pascal, Python, Lua e C++**.  
+- 🎓 Estudante da **Fatec Rio Claro**, aplicando conhecimentos acadêmicos em projetos práticos.  
+- 📍 Localizado em **Rio Claro, São Paulo, Brasil**.
+
+---
+
+### 🛠️ Habilidades
+
+#### 💬 Linguagens de Programação:
+`Python` `C++` `Java` `Lua` `Pascal` `CSS` `JavaScript` `PHP`
+
+#### 🎮 Desenvolvimento de Jogos:
+`GML` `Unity` `Roblox Studio`
+
+#### 🧰 Ferramentas:
+`Git` `GitHub` `Visual Studio Code`
+
+#### 📘 Em Desenvolvimento:
+`C` `C#`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanscremin&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🌱 Em constante evolução
+
+> Sempre buscando desafios e novas tecnologias para expandir meus horizontes como dev e criador.
+
+---
+
+### 📫 Onde Me Encontrar
+
+- GitHub: [@nathanscremin](https://github.com/nathanscremin)
+- *(Adicione outras redes se quiser: LinkedIn, Portfólio, etc)*
+
