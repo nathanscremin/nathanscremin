@@ -9,9 +9,9 @@
 
 - 🎮 **Desenvolvedor de Jogos Digitais** apaixonado por criar experiências interativas e imersivas.  
 - 💻 **Programando há 4 anos**, explorando linguagens como **Pascal, Python, Lua e C++**.  
-- 🎓 Formado em **Desenvolvimento de Sistemas pela ETEC Profº Armando Bayeux da Silva** (Rio Claro - SP).  
+- 🎓 Formado em **Desenvolvimento de Sistemas pela ETEC Profº Armando Bayeux da Silva**.  
 - 🤖 Atualmente cursando **Inteligência Artificial na Fatec Rio Claro**, com foco em aprendizado de máquina e desenvolvimento avançado.  
-- 📍 Localizado em **Rio Claro, São Paulo, Brasil**.
+- 🌎 Localizado em **Rio Claro, São Paulo, Brasil**.
 
 ---
 
@@ -36,12 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathanscremin&show_icons=true&theme=tokyonight" alt="Nathan's GitHub stats"/>
 </p>
-
----
-
-### 🌱 Em constante evolução
-
-> Sempre buscando desafios e novas tecnologias para expandir meus horizontes como dev e criador.
 
 ---
 
