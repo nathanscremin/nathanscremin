@@ -11,7 +11,6 @@
 - 💻 **Programando há 4 anos**, explorando linguagens como **Pascal, Python, Lua e C++**.  
 - 🎓 Formado em **Desenvolvimento de Sistemas pela ETEC Profº Armando Bayeux da Silva**.  
 - 🤖 Atualmente graduando em **Inteligência Artificial na Fatec Rio Claro**, com foco em aprendizado de máquina e desenvolvimento avançado.
-- 🍤 Apelidado carinhosamente de **Flambe**.
 - 🌎 Localizado em **Rio Claro, São Paulo, Brasil**.
 
 ---
