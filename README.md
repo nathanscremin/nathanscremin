@@ -56,36 +56,21 @@ Olá! Sou o Nathan, programador com **5 anos de experiência** no desenvolviment
 > Plataforma integrada de vigilância nutricional infantil desenvolvida para a **Secretaria de Saúde de Rio Claro - SP**. Foco no monitoramento de dados nutricionais públicos de crianças para embasamento de ações de saúde coletiva.
 > * **Tecnologias:** Jupyter Notebook, Python, Análise de Dados e Estatística.
 
+#### 🏫 [Academo](https://github.com/Academo-Org/academo_project)
+> Site voltado para gestão educacional mesclado diretamente com Inteligência Artificial.
+> * **Tecnologias:** PHP, HTML5, JavaScript & CSS3.
+
 #### ⚔️ [Eldendle](https://github.com/nathanscremin/Eldendle)
 > Aplicação Web completa (frontend e backend) inspirada em mecânicas de adivinhação temáticas.
 > * **Tecnologias:** JavaScript, Node.js, HTML5 & CSS3.
 
-#### 📈 [Churn Prediction 2026](https://github.com/nathanscremin/churn_2026)
+#### 📈 [Churn Prediction](https://github.com/nathanscremin/churn_2026)
 > Modelagem preditiva aplicada ao negócio para identificação e prevenção de perda de clientes (churn rate).
 > * **Tecnologias:** Python, Jupyter Notebook, Aprendizado de Máquina (Machine Learning).
-
-#### 🕷️ [Steam Scraper](https://github.com/nathanscremin/steam_scraper)
-> Coletor automatizado (web scraper) projetado para monitorar, obter e estruturar informações e métricas da plataforma Steam.
-> * **Tecnologias:** Python, BeautifulSoup, Requests, Engenharia de Dados.
 
 #### 🚑 [Protocolo Manchester](https://github.com/nathanscremin/protocolo_manchester)
 > Sistema que automatiza a triagem clínica em prontos-socorros com base nas diretrizes internacionais do Protocolo de Manchester.
 > * **Tecnologias:** Python, Lógica de Algoritmos.
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathanscremin&show_icons=true&theme=tokyonight" alt="Nathan's GitHub stats" />
-</p>
-
----
-
-### 🧩 Contato & Conexão
-
-* **LinkedIn:** [Nathan Scremin](https://www.linkedin.com/in/nathan-scremin-011698317)
-* **Email:** nathan.scremin@fatec.sp.gov.br *(opcional)*
 
 ---
 
