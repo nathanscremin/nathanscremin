@@ -42,7 +42,7 @@ Olá! Sou o Nathan, programador com **5 anos de experiência** no desenvolviment
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-#### 🕹️ Desenvolvimento de Jogos (Experiência Adicional)
+#### 🕹️ Desenvolvimento de Jogos
 <p align="left">
   <img src="https://img.shields.io/badge/GameMaker%20Studio%202-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GameMaker" />
   <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=flat-square&logo=roblox&logoColor=white" alt="Roblox Studio" />
