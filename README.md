@@ -1,4 +1,4 @@
-# Nathan Scremin 👨‍💻
+# Nathan Scremin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-scremin-011698317" target="_blank">
